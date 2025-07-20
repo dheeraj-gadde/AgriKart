@@ -14,8 +14,8 @@
     <string name="reset_Title">Setup New Password</string>
     <string name="reset_button">Reset</string>
     <string name="email_send">Send Email</string>
-    <string name="default_web_client_id">AIzaSyAmc7cH62CGxo15foP4GM02jus4eLDndv8</string>
-    <string name="default_web_client_id1">535727027424-5g4t51uuof368u66pif4frh08ecmd5e1.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">Add your key</string>
+    <string name="default_web_client_id1">Add your key</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
