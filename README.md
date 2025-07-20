@@ -16,8 +16,6 @@
 
 ## 📱 UI/UX Design
 
-🎨 Check out the full design on Behance:  
-🔗 [AgriConnect Mobile App UI/UX Design Concept](https://www.behance.net/gallery/223892785/AgryConnect-Mobile-App-UIUX-Design-Concept)
 ### ![image](https://github.com/user-attachments/assets/57a0abd2-e474-44fb-a8dc-b6c8d548d8fa)
 
 ---
